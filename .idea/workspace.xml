@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95b5f3be-75a3-4557-b02c-70fe92ccd96c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MSDS_458.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Discussion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Initial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Nodes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Paper.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Week 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Week2_ReCoded.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Map 1/myplot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 1/myplot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/Run 2/myplot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/datafiles/GB1vBiasWeightFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/datafiles/GB1vWeightFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/datafiles/GB1wBiasWeightFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 3/datafiles/GB1wWeightFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MSDS_458" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="541" column="51" lean-forward="true" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compute_single_feedforward_pass</find>
+      <find>print_and_trace_back_propagate_output_to_hidden</find>
+      <find>np.</find>
+      <find>bias</find>
+      <find>BackpropagateHiddenToInput</find>
+      <find>back_propagate_hidden_to_input</find>
+      <find># Compute the Summed Squared Error, or SSE</find>
+      <find>back_propagate_bias_hidden_weights</find>
+      <find>matrix</find>
+      <find>obtain</find>
+      <find>feed</find>
+      <find>compute_transfer_functionDeriv</find>
+      <find>backpropagateOutputToHidden</find>
+      <find>backp</find>
+      <find>outputArrayLength</find>
+      <find>training_data_list =</find>
+      <find>for</find>
+      <find>= array_size_list</find>
+      <find>alphabet</find>
+      <find>plot</find>
+      <find>compute_outputs_across_all_training_data</find>
+      <find>class</find>
+      <find>p0</find>
+      <find>15</find>
+      <find>nodes</find>
+      <find>5</find>
+      <find>w_weight_file</find>
+      <find>v_weight</find>
+      <find>w_weight_array</find>
+      <find>plt</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>compute_transfer_function_derivative</replace>
+      <replace>backpropagateOutputToHidden</replace>
+      <replace>output_array_length</replace>
+      <replace>return</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ivan Medrano Velazquez" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Week 2.py" />
+        <option value="$PROJECT_DIR$/Week2_ReCoded.py" />
+        <option value="$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-18" />
+    <option name="width" value="1941" />
+    <option name="height" value="2112" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MSDS_458" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSDS_458" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\Documents\School\MSDS_458" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Matrix_9X9_Heatmaps_RG_2019-04-21">
+    <configuration name="Matrix_9X9_Heatmaps_RG_2019-04-21" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MSDS_458" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MSDS_458" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week2_ReCoded" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MSDS_458" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2_ReCoded.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MSDS_458" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Matrix_9X9_Heatmaps_RG_2019-04-21" />
+      <item itemvalue="Python.Week2_ReCoded" />
+      <item itemvalue="Python.Week 2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Week2_ReCoded" />
+        <item itemvalue="Python.Week 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95b5f3be-75a3-4557-b02c-70fe92ccd96c" name="Default Changelist" comment="" />
+      <created>1562202536803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562202536803</updated>
+      <workItem from="1562202538922" duration="421000" />
+      <workItem from="1562202978349" duration="1581000" />
+      <workItem from="1562420771517" duration="10301000" />
+      <workItem from="1562439618347" duration="11592000" />
+      <workItem from="1562452560389" duration="155000" />
+      <workItem from="1562452828921" duration="35000" />
+      <workItem from="1563042026044" duration="203000" />
+      <workItem from="1563042245826" duration="344000" />
+      <workItem from="1563042607389" duration="699000" />
+      <workItem from="1563043367884" duration="650000" />
+      <workItem from="1563044763578" duration="31000" />
+      <workItem from="1563044906969" duration="53000" />
+      <workItem from="1563044973850" duration="21599000" />
+      <workItem from="1563072784331" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47905000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.089789435" />
+      <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.24962743" />
+      <window_info id="Favorites" order="2" sideWeight="0.50085765" side_tool="true" weight="0.24962743" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967892" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49900675" weight="0.39641744" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32788163" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49980134" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50019866" side_tool="true" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49900675" weight="0.2211838" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.7075884" weight="0.33021808" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" visible="true" weight="0.32943925" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.86527294" visible="true" weight="0.32975766" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32975766" />
+      <window_info anchor="right" x="0" y="0" width="593" height="1215" id="Documentation" order="5" sideWeight="0.13472706" side_tool="true" visible="true" weight="0.32975766" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating School repository code. 7/13/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating School repository code. 7/13/2019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MSDS_458$Matrix_9X9_Heatmaps_RG_2019_04_21.coverage" NAME="Matrix_9X9_Heatmaps_RG_2019-04-21 Coverage Results" MODIFIED="1563071365941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3" />
+    <SUITE FILE_PATH="coverage/MSDS_458$Week2_ReCoded.coverage" NAME="Week2_ReCoded Coverage Results" MODIFIED="1563042672633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MSDS_458$Week_2.coverage" NAME="Week 2 Coverage Results" MODIFIED="1562443950318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_env/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/Week 2.py" />
+    <entry file="file://$PROJECT_DIR$/Week2_ReCoded.py" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Week2_ReCoded.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/_bootlocale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 3/Matrix_9X9_Heatmaps_RG_2019-04-21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="541" column="51" lean-forward="true" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
